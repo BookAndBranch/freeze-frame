@@ -1,0 +1,2 @@
+# freeze-frame
+For researchers of infant cognition and human development, Freeze Frame is an interactive computer application that provides experimental control of visual cues, animation and stimuli for scientific trials of early visual inhibition. The software is derived from the behavior and code used in earlier research and supports data collection for a lab environment using Microsoft Windows 10.
