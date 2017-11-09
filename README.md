@@ -42,8 +42,8 @@ yarn release
 
 # Acknowledgements
 
-Research reported in this publication was supported by the Eunice Kennedy Shriver National Institute of Child Health & Human Development of the National Institutes of Health under award number `R03HD091644`. The content is solely the responsibility of the authors and does not necessarily represent the official views of the National Institutes of Health.
-
+Funding for the Freeze Frame software was supported by grant R03HD091644 from the Eunice Kennedy Shriver National Institute of Child Health and Human Development (NICHD/NIH) awarded to Martha Ann Bell. The content of this software and resulting research publications is solely the responsibility of the authors and does not necessarily represent the official view of the National Institutes of Health. We are grateful that Karla Holmboe and Gergley Csibra shared their original Freeze Frame source code and stimuli with us. The original Freeze Frame publication can be found at: Holmboe, K., Fearon, R.M.P., Csibra, G., Tucker, L.A., & Johnson, M.H. (2008). Freeze-Frame: A new infant inhibition task and its relation to frontal cortex tasks during infancy and early childhood. Journal of Experimental Child Psychology, 100, 89-114.
+ 
 # License
 
 MIT
